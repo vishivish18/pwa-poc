@@ -20,7 +20,7 @@ const staticAssets = [
   './ripples.min.js',
   './typeahead.bundle.min.js',
   './typeahead.jquery.js',
-  '../assets/images/',
+  './images/',
   '../assets/js/vendor/angular-ui-router.min.js',
   '../assets/js/vendor/material.min.js',
   '../assets/js/vendor/ripple.min.js',
