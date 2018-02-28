@@ -7,6 +7,7 @@ const staticAssets = [
   '../index.html',
   './app1.js',
   './app.js',
+  '../assets/images/',
   '../assets/js/vendor/angular-ui-router.min.js',
   '../assets/js/vendor/material.min.js',
   '../assets/js/vendor/ripple.min.js',
