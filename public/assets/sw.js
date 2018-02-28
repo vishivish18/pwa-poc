@@ -4,6 +4,8 @@ const staticAssets = [
   './',
   '../app/views/home.html',
   '../app/views/nav.html',
+  './home.html',
+  './nav.html',
   '../index.html',
   './app1.js',
   './app.js',

@@ -6,6 +6,7 @@ var path = require('path')
 router.use(express.static(path.resolve('public/assets/')))
 router.use(express.static(path.resolve('node_modules/')))
 router.use(express.static(__dirname + '/../../public/app/views'))
+router.use(express.static(__dirname + '/../../public/'))
 router.get('*', function(req, res) {
 	res.sendFile(path.resolve('public/index.html'));
 });
