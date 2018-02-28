@@ -17,7 +17,7 @@ app.use(function(req, res, next) {
 
 app.use('/', require('./app/controllers/static'))
 
-var port = process.env.PORT || 1819
+var port = process.env.PORT || 1400
 var server = app.listen(port, function() {
     console.log('Magic begins at port ', port);
 });
