@@ -24,7 +24,7 @@ const staticAssets = [
   './images/austria.png',
   './images/germany.png',
   './images/singapore.png',
-  'https://www.nerium.com/-/media/Website/Images/products-5.ashx?h=306&la=en&w=424',
+  './images/products.png',
   '../assets/js/vendor/angular-ui-router.min.js',
   '../assets/js/vendor/material.min.js',
   '../assets/js/vendor/ripple.min.js',
